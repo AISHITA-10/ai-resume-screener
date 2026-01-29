@@ -1,7 +1,7 @@
 # AI Resume Screener (RAG + LLM) — Prototype
 
 This is a lightweight **LLM-powered resume screening assistant** with **RAG (embeddings + vector DB)**, a **chunking strategy**, **prompt guardrails**, and a **Streamlit UI**.
-
+Check the video for functional working.
 ## Features
 - **Ingest resumes**: PDF / DOCX / TXT
 - **Chunking strategy**: section-aware + bounded chunks with overlap
